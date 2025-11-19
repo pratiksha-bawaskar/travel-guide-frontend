@@ -43,9 +43,9 @@ This is the **frontend** of the Travel Guide project and communicates with the *
 ### 1. Clone the repository
 git clone (https://github.com/pratiksha-bawaskar/travel-guide-frontend.git)
 
-cd travel-guide-frontend
-npm install
-npm run dev
+- cd travel-guide-frontend
+- npm install
+- npm run dev
 
 
 ## 🧑‍💻 Author
