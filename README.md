@@ -41,8 +41,7 @@ This is the **frontend** of the Travel Guide project and communicates with the *
 ## 📦 Installation / Run Locally
 
 ### 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/travel-guide-frontend.git](https://github.com/pratiksha-bawaskar/travel-guide-frontend.git
-)
+git clone (https://github.com/pratiksha-bawaskar/travel-guide-frontend.git)
 
 cd travel-guide-frontend
 npm install
