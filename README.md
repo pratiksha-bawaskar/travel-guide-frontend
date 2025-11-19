@@ -171,7 +171,5 @@ Frontend can be deployed on:
 ## 👩‍💻 Author
 
 **Pratiksha Bawaskar**
-🌟 Full Stack Java Developer
-🌟 React + Spring Boot Projects
-🌟 Passionate about clean UI and real-world apps
+-🌟 Full Stack Java Developer | 🌟 React + Spring Boot Projects |🌟 Passionate about clean UI and real-world apps
 
