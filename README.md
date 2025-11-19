@@ -130,8 +130,6 @@ In `Places.jsx`, `Login.jsx`, `Register.jsx`, `PlaceDetails.jsx`, `Reviews.jsx` 
 axios.get("http://localhost:8080/api/places")
 ```
 
-> Replace with deployed backend URL when live.
-
 ---
 
 ## 🔗 Backend Repo Link
